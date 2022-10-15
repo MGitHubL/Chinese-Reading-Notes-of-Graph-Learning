@@ -1,1 +1,1 @@
-# Some Graph Learning Notes (In Chinese)
+# Graph Learning Notes (In Chinese)
