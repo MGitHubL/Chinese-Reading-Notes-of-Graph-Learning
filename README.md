@@ -7,7 +7,7 @@
 
 * Graph self-supervised learning: A survey (**TKDE 2022**) [[paper](https://arxiv.org/pdf/2103.00111.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120686123?spm=1001.2014.3001.5502)]
 
-* 面向社会计算的网络表示学习 (**清华博士论文 2018**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/121908132?spm=1001.2014.3001.5501)]
+* 面向社会计算的网络表示学习 (**清华博士论文 2018**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/phd_thesis.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/121908132?spm=1001.2014.3001.5501)]
 
 * A Survey on Network Embedding (**AAAI 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104563890)]
 
@@ -109,11 +109,11 @@
 
 ### 2017
 
-* CANE：Context-Aware Network Embedding for Relation Modeling (**ACL**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103791236)]
+* CANE: Context-Aware Network Embedding for Relation Modeling (**ACL**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)][[code](https://github.com/thunlp/CANE)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/cane_acl.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103791236)]
 
 * Inductive representation learning on large graph (**NIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
 
-* PRIS：Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
+* PRIS: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
 
 * TransNet：Translation-Based NRL for Social Relation Extraction (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110836791)]
 
@@ -127,7 +127,7 @@
 
 * node2vec: Scalable Feature Learning for Networks (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/109146279)]
 
-* Max-Margin DeepWalk：Discriminative Learning of Network Representation (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110749863)]
+* Max-Margin DeepWalk：Discriminative Learning of Network Representation (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2016_mmdw.pdf)][[code](https://github.com/thunlp/MMDW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110749863)]
 
 ### 2015
 
