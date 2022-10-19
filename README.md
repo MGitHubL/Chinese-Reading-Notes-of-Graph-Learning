@@ -11,6 +11,8 @@
 
 * A Survey on Network Embedding (**AAAI 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104563890)]
 
+* 网络表示学习专题 (**CCF 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103815322)]
+
 ## Paper
 
 ### 2022
@@ -21,6 +23,8 @@
 
 * CGC: Contrastive Graph Clustering for Community Detection and Tracking (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/126083177?spm=1001.2014.3001.5501)]
 
+* Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
+
 ### 2021
 
 * Do Transformers Really Perform Bad for Graph Representation (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501)]
@@ -30,8 +34,6 @@
 * Deep Fusion Clustering Network (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123155242?spm=1001.2014.3001.5501)]
 
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
-
-* Pre-Training on Dynamic Graph Neural Networks (**arXiv**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114436739)]
 
@@ -49,9 +51,9 @@
 
 * Graph Game Embedding (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120815394)]
 
-* Towards Robust Graph Contrastive Learning (**The Web Conf Workshop**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120889575)]
+* Towards Robust Graph Contrastive Learning (**WWW Workshop**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120889575)]
 
-* Towards Open-World Feature Extrapolation-An Inductive Graph Learning Approach (**NIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/122962734)]
+* Towards Open-World Feature Extrapolation-An Inductive Graph Learning Approach (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/122962734)]
 
 * Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis (**ACL**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123523198)]
 
@@ -83,7 +85,7 @@
 
 * DyREP：Learing Representations over Dynamic Graphs (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103844015)]
 
-* Self-attention with Functional Time Representation Learning (**NIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105678080)]
+* Self-attention with Functional Time Representation Learning (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105678080)]
 
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105892100)]
 
@@ -105,13 +107,11 @@
 
 * A Unified Framework for Community Detection and Network Representation Learning (**TKDE**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110952192)]
 
-* 网络表示学习专题 (**CCF**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103815322)]
-
 ### 2017
 
 * CANE: Context-Aware Network Embedding for Relation Modeling (**ACL**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)][[code](https://github.com/thunlp/CANE)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/cane_acl.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103791236)]
 
-* Inductive representation learning on large graph (**NIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
+* Inductive representation learning on large graph (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
 
 * PRIS: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
 
