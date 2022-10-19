@@ -23,7 +23,7 @@
 
 * CGC: Contrastive Graph Clustering for Community Detection and Tracking (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/126083177?spm=1001.2014.3001.5501)]
 
-* Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
+* Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[paper](https://arxiv.org/pdf/2102.12380.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
 
 ### 2021
 
@@ -105,7 +105,7 @@
 
 * Arbitrary-Order Proximity Preserved Network Embedding (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103857531)]
 
-* A Unified Framework for Community Detection and Network Representation Learning (**TKDE**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110952192)]
+* A Unified Framework for Community Detection and Network Representation Learning (**TKDE**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/aaai2018_cliwc.pdf)][[code](https://github.com/thunlp/Auto_CLIWC)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110952192)]
 
 ### 2017
 
@@ -113,9 +113,9 @@
 
 * Inductive representation learning on large graph (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
 
-* PRIS: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
+* PRISM: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
 
-* TransNet：Translation-Based NRL for Social Relation Extraction (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110836791)]
+* TransNet: Translation-Based NRL for Social Relation Extraction (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet.pdf)][[code](https://github.com/thunlp/TransNet)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet_shenzhen.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110836791)]
 
 * Learning Community Embedding with Community Detection and Node Embedding on Graphs (**CIKM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/115056813)]
 
