@@ -127,12 +127,12 @@
 
 * node2vec: Scalable Feature Learning for Networks (**KDD**) [[paper](https://arxiv.org/abs/1607.00653)][[code](https://github.com/aditya-grover/node2vec)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109146279)]
 
-* Max-Margin DeepWalk：Discriminative Learning of Network Representation (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2016_mmdw.pdf)][[code](https://github.com/thunlp/MMDW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110749863)]
+* Max-Margin DeepWalk: Discriminative Learning of Network Representation (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2016_mmdw.pdf)][[code](https://github.com/thunlp/MMDW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110749863)]
 
 ### 2015
 
-* LINE：Large-scale Information Network Embedding (**WWW**) [[paper](https://arxiv.org/pdf/1503.03578.pdf%C2%A0%E3%80%90WWW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104537980)]
+* LINE: Large-scale Information Network Embedding (**WWW**) [[paper](https://arxiv.org/pdf/1503.03578.pdf%C2%A0%E3%80%90WWW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104537980)]
 
 ### 2014
 
-* DeepWalk：online learning of social representations (**KDD**) [[code](https://github.com/phanein/deepwalk)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104060366)]
+* DeepWalk: online learning of social representations (**KDD**) [[paper](https://arxiv.org/pdf/1403.6652.pdf%C3%AF%C2%BC%E2%80%BA)][[code](https://github.com/phanein/deepwalk)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104060366)]
