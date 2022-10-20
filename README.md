@@ -33,7 +33,7 @@
 
 * Deep Fusion Clustering Network (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17198)][[code](https://github.com/WxTu/DFCN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123155242?spm=1001.2014.3001.5501)]
 
-* Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
+* Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[code](https://github.com/snap-stanford/CAW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4967.ZhouF.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114436739)]
 
@@ -41,13 +41,13 @@
 
 * Accurate Learning of Graph Representations with Graph Multiset Pooling (**ICLR**) [[paper](https://arxiv.org/pdf/2102.11533.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/115186068)]
 
-* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (**AAAI Best Paper**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/116326599)]
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (**AAAI Best Paper**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf)][[code](https://github.com/zhouhaoyi/Informer2020)][[note](https://blog.csdn.net/CSDNTianJi/article/details/116326599)]
 
-* Self-supervised Graph Learning for Recommendation (**SIGIR**) [[paper](https://arxiv.org/pdf/2010.10783.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120121426)]
+* Self-supervised Graph Learning for Recommendation (**SIGIR**) [[code](https://github.com/wujcan/SGL-TensorFlow)][[paper](https://arxiv.org/pdf/2010.10783.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120121426)]
 
 * Learnable Embedding Sizes for Recommender Systems (**ICLR**) [[paper](https://arxiv.org/pdf/2101.07577.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120471847)]
 
-* Adversarial Directed Graph Embedding (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2842.ZhuShijie.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120517065)]
+* Adversarial Directed Graph Embedding (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2842.ZhuShijie.pdf)][[code](https://github.com/RingBDStack/DGGAN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120517065)]
 
 * Graph Game Embedding (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16942)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120815394)]
 
@@ -61,11 +61,11 @@
 
 ### 2020
 
-* Inductive representation learning on temporal graphs (**ICLR**) [[paper](https://arxiv.org/abs/2002.07962)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
+* Inductive representation learning on temporal graphs (**ICLR**) [[paper](https://arxiv.org/abs/2002.07962)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
 
-* EvolveGCN：Evolving Graph Convolutional Networks for Dynamic Graph (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5984)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108708828)]
+* EvolveGCN：Evolving Graph Convolutional Networks for Dynamic Graph (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5984)][[code](https://github.com/IBM/EvolveGCN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108708828)]
 
-* DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM**) [[paper](http://yhwu.me/publications/dysat_wsdm20.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109530388)]
+* DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM**) [[paper](http://yhwu.me/publications/dysat_wsdm20.pdf)][[code](https://github.com/aravindsankar28/DySAT)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109530388)]
 
 * Inductive and Unsupervised Representation Learning on Graph Structured Objects (**ICLR**) [[paper](https://openreview.net/forum?id=rkem91rtDB)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110006234)]
 
@@ -75,7 +75,7 @@
 
 * JNET: Learning User Representations via Joint Network Embedding and Topic Embedding (**WSDM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371770)][[note](https://blog.csdn.net/CSDNTianJi/article/details/113574487)]
 
-* Deep Graph Contrastive Representation Learning (**ICML Workshop**) [[paper](https://arxiv.org/pdf/2006.04131.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120843409)]
+* Deep Graph Contrastive Representation Learning (**ICML Workshop**) [[paper](https://arxiv.org/pdf/2006.04131.pdf)][[code](https://github.com/CRIPAC-DIG/GRACE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120843409)]
 
 * On the equivalence between positional node embeddings and structural graph representations (**ICLR**) [[paper](https://arxiv.org/pdf/1910.00452.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105512163)]
 
@@ -87,13 +87,13 @@
 
 * Self-attention with Functional Time Representation Learning (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105678080)]
 
-* Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105892100)]
+* Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD**) [[paper](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)][[code](https://github.com/srijankr/jodie)][[slide](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019-slides.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105892100)]
 
-* Node Embedding over Temporal Graphs (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/107761204)]
+* Node Embedding over Temporal Graphs (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed)][[note](https://blog.csdn.net/CSDNTianJi/article/details/107761204)]
 
 * Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graph (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/108573691)]
 
-* GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110006408)]
+* GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding (**WWW**) [[paper](https://arxiv.org/pdf/1903.00757.pdf)][[code](https://github.com/DeepGraphLearning/graphvite)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110006408)]
 
 ### 2018
 
@@ -111,21 +111,21 @@
 
 * CANE: Context-Aware Network Embedding for Relation Modeling (**ACL**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)][[code](https://github.com/thunlp/CANE)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/cane_acl.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103791236)]
 
-* Inductive representation learning on large graph (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
+* Inductive representation learning on large graph (**NeurIPS**) [[paper](https://arxiv.org/pdf/1706.02216.pdf)][[code](https://github.com/williamleif/GraphSAGE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
 
 * PRISM: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
 
 * TransNet: Translation-Based NRL for Social Relation Extraction (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet.pdf)][[code](https://github.com/thunlp/TransNet)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet_shenzhen.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110836791)]
 
-* Learning Community Embedding with Community Detection and Node Embedding on Graphs (**CIKM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/115056813)]
+* Learning Community Embedding with Community Detection and Node Embedding on Graphs (**CIKM**) [[code](https://github.com/andompesta/ComE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/115056813)]
 
 ### 2016
 
 * Asymmetric Transitivity Preserving Graph Embedding (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103829868)]
 
-* Structural Deep Network Embedding (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105557064)]
+* Structural Deep Network Embedding (**KDD**) [[paper](https://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding)][[code](https://github.com/suanrong/SDNE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105557064)]
 
-* node2vec: Scalable Feature Learning for Networks (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/109146279)]
+* node2vec: Scalable Feature Learning for Networks (**KDD**) [[paper](https://arxiv.org/abs/1607.00653)][[code](https://github.com/aditya-grover/node2vec)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109146279)]
 
 * Max-Margin DeepWalk：Discriminative Learning of Network Representation (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2016_mmdw.pdf)][[code](https://github.com/thunlp/MMDW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110749863)]
 
@@ -135,4 +135,4 @@
 
 ### 2014
 
-* DeepWalk：online learning of social representations (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104060366)]
+* DeepWalk：online learning of social representations (**KDD**) [[code](https://github.com/phanein/deepwalk)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104060366)]
