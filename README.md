@@ -9,7 +9,7 @@
 
 * 面向社会计算的网络表示学习 (**清华博士论文 2018**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/phd_thesis.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/121908132?spm=1001.2014.3001.5501)]
 
-* A Survey on Network Embedding (**AAAI 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104563890)]
+* A Survey on Network Embedding (**AAAI 2017**) [[paper](http://shichuan.org/hin/topic/Embedding/2017.%20A%20Survey%20on%20Network%20Embedding.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104563890)]
 
 * 网络表示学习专题 (**CCF 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103815322)]
 
@@ -17,69 +17,69 @@
 
 ### 2022
 
-* SAIL: Self Augmented Graph Contrastive Learning (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/127030633?spm=1001.2014.3001.5501)]
+* SAIL: Self Augmented Graph Contrastive Learning (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20875)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127030633?spm=1001.2014.3001.5501)]
 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
-* CGC: Contrastive Graph Clustering for Community Detection and Tracking (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/126083177?spm=1001.2014.3001.5501)]
+* CGC: Contrastive Graph Clustering for Community Detection and Tracking (**WWW**) [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512160)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126083177?spm=1001.2014.3001.5501)]
 
 * Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[paper](https://arxiv.org/pdf/2102.12380.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
 
 ### 2021
 
-* Do Transformers Really Perform Bad for Graph Representation (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501)]
+* Do Transformers Really Perform Bad for Graph Representation (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501)]
 
-* Structural Deep Clustering Network (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123323126?spm=1001.2014.3001.5501)]
+* Structural Deep Clustering Network (**WWW**) [[paper](https://arxiv.org/pdf/2002.01633.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123323126?spm=1001.2014.3001.5501)]
 
-* Deep Fusion Clustering Network (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123155242?spm=1001.2014.3001.5501)]
+* Deep Fusion Clustering Network (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17198)][[code](https://github.com/WxTu/DFCN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123155242?spm=1001.2014.3001.5501)]
 
-* Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
+* Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
 
-* Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114436739)]
+* Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4967.ZhouF.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114436739)]
 
-* Combining Label Propagation and Simple Models Out-performs Graph Neural Networks (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114632230)]
+* Combining Label Propagation and Simple Models Out-performs Graph Neural Networks (**ICLR**) [[paper](https://arxiv.org/pdf/2010.13993.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114632230)]
 
-* Accurate Learning of Graph Representations with Graph Multiset Pooling (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/115186068)]
+* Accurate Learning of Graph Representations with Graph Multiset Pooling (**ICLR**) [[paper](https://arxiv.org/pdf/2102.11533.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/115186068)]
 
-* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/116326599)]
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (**AAAI Best Paper**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/116326599)]
 
-* Self-supervised Graph Learning for Recommendation (**SIGIR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120121426)]
+* Self-supervised Graph Learning for Recommendation (**SIGIR**) [[paper](https://arxiv.org/pdf/2010.10783.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120121426)]
 
-* Learnable Embedding Sizes for Recommender Systems (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120471847)]
+* Learnable Embedding Sizes for Recommender Systems (**ICLR**) [[paper](https://arxiv.org/pdf/2101.07577.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120471847)]
 
-* Adversarial Directed Graph Embedding (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120517065)]
+* Adversarial Directed Graph Embedding (**AAAI**) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2842.ZhuShijie.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120517065)]
 
-* Graph Game Embedding (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120815394)]
+* Graph Game Embedding (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16942)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120815394)]
 
-* Towards Robust Graph Contrastive Learning (**WWW Workshop**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120889575)]
+* Towards Robust Graph Contrastive Learning (**WWW Workshop**) [[paper](https://arxiv.org/pdf/2102.13085.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120889575)]
 
-* Towards Open-World Feature Extrapolation-An Inductive Graph Learning Approach (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/122962734)]
+* Towards open-world feature extrapolation: An inductive graph learning approach (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper/2021/file/a1c5aff9679455a233086e26b72b9a06-Paper.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/122962734)]
 
-* Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis (**ACL**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/123523198)]
+* Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis (**ACL**) [[paper](https://aclanthology.org/2021.acl-long.494/)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123523198)]
 
-* How to Find Your Friendly Neighborhood：Graph Attention Design with Self-supervision (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/114578725)]
+* How to Find Your Friendly Neighborhood：Graph Attention Design with Self-supervision (**ICLR**) [[paper](https://arxiv.org/abs/2204.04879)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114578725)]
 
 ### 2020
 
-* Inductive representation learning on temporal graphs (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
+* Inductive representation learning on temporal graphs (**ICLR**) [[paper](https://arxiv.org/abs/2002.07962)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
 
-* EvolveGCN：Evolving Graph Convolutional Networks for Dynamic Graph (**AAAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/108708828)]
+* EvolveGCN：Evolving Graph Convolutional Networks for Dynamic Graph (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5984)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108708828)]
 
-* DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/109530388)]
+* DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM**) [[paper](http://yhwu.me/publications/dysat_wsdm20.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109530388)]
 
-* Inductive and Unsupervised Representation Learning on Graph Structured Objects (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110006234)]
+* Inductive and Unsupervised Representation Learning on Graph Structured Objects (**ICLR**) [[paper](https://openreview.net/forum?id=rkem91rtDB)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110006234)]
 
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/116721279)]
 
-* GCC：Graph Contrastive Coding for Graph Neural Network Pre-Training (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/108692278)]
+* GCC：Graph Contrastive Coding for Graph Neural Network Pre-Training (**KDD**) [[paper](https://arxiv.org/pdf/2006.09963.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108692278)]
 
-* JNET: Learning User Representations via Joint Network Embedding and Topic Embedding (**WSDM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/113574487)]
+* JNET: Learning User Representations via Joint Network Embedding and Topic Embedding (**WSDM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371770)][[note](https://blog.csdn.net/CSDNTianJi/article/details/113574487)]
 
-* Deep Graph Contrastive Representation Learning (**ICML Workshop**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/120843409)]
+* Deep Graph Contrastive Representation Learning (**ICML Workshop**) [[paper](https://arxiv.org/pdf/2006.04131.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120843409)]
 
-* On The Equivalence between Node Embeddings and Structural graph representations (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105512163)]
+* On the equivalence between positional node embeddings and structural graph representations (**ICLR**) [[paper](https://arxiv.org/pdf/1910.00452.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105512163)]
 
-* Explain Graph Neural Networks to Understand Weight Graph Features (**IFIP**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110005728)]
+* Explain Graph Neural Networks to Understand Weight Graph Features (**IFIP**) [[paper](https://arxiv.org/pdf/2002.00514.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110005728)]
 
 ### 2019
 
