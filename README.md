@@ -83,27 +83,27 @@
 
 ### 2019
 
-* DyREP：Learing Representations over Dynamic Graphs (**ICLR**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103844015)]
+* DyREP: Learing Representations over Dynamic Graphs (**ICLR**) [[paper](https://openreview.net/forum?id=HyePrhR5KX)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103844015)]
 
-* Self-attention with Functional Time Representation Learning (**NeurIPS**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/105678080)]
+* Self-attention with Functional Time Representation Learning (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper/2019/file/cf34645d98a7630e2bcca98b3e29c8f2-Paper.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105678080)]
 
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD**) [[paper](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)][[code](https://github.com/srijankr/jodie)][[slide](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019-slides.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105892100)]
 
 * Node Embedding over Temporal Graphs (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed)][[note](https://blog.csdn.net/CSDNTianJi/article/details/107761204)]
 
-* Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graph (**IJCAI**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/108573691)]
+* Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graph (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2019/0548.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108573691)]
 
 * GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding (**WWW**) [[paper](https://arxiv.org/pdf/1903.00757.pdf)][[code](https://github.com/DeepGraphLearning/graphvite)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110006408)]
 
 ### 2018
 
-* Continuous-Time Dynamic Network Embeddings (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/100830263)]
+* Continuous-Time Dynamic Network Embeddings (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[note](https://blog.csdn.net/CSDNTianJi/article/details/100830263)]
 
-* Embedding Temporal Network via Neighborhood Formation (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/101921040)]
+* Embedding Temporal Network via Neighborhood Formation (**KDD**) [[paper](http://www.shichuan.org/hin/topic/Embedding/2018.KDD%202018%20Embedding%20Temporal%20Network%20via%20Neighborhood%20Formation.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/101921040)]
 
-* Learning dynamic embeddings from temporal interactions (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104859498)]
+* Learning dynamic embeddings from temporal interactions (**ACM**) [[paper](https://arxiv.org/pdf/1812.02289.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104859498)]
 
-* Arbitrary-Order Proximity Preserved Network Embedding (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103857531)]
+* Arbitrary-Order Proximity Preserved Network Embedding (**KDD**) [[paper](https://pengcui.thumedialab.com/papers/NE-ArbitraryProximity.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103857531)]
 
 * A Unified Framework for Community Detection and Network Representation Learning (**TKDE**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/aaai2018_cliwc.pdf)][[code](https://github.com/thunlp/Auto_CLIWC)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110952192)]
 
@@ -113,15 +113,15 @@
 
 * Inductive representation learning on large graph (**NeurIPS**) [[paper](https://arxiv.org/pdf/1706.02216.pdf)][[code](https://github.com/williamleif/GraphSAGE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104122280)]
 
-* PRISM: Profession Identification in Social Media (**ACM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
+* PRISM: Profession Identification in Social Media (**ACM**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3070665)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110469312)]
 
 * TransNet: Translation-Based NRL for Social Relation Extraction (**IJCAI**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet.pdf)][[code](https://github.com/thunlp/TransNet)][[slide](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/ijcai2017_transnet_shenzhen.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/110836791)]
 
-* Learning Community Embedding with Community Detection and Node Embedding on Graphs (**CIKM**) [[code](https://github.com/andompesta/ComE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/115056813)]
+* Learning Community Embedding with Community Detection and Node Embedding on Graphs (**CIKM**) [[paper](http://ww.sentic.net/community-embedding.pdf)][[code](https://github.com/andompesta/ComE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/115056813)]
 
 ### 2016
 
-* Asymmetric Transitivity Preserving Graph Embedding (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103829868)]
+* Asymmetric Transitivity Preserving Graph Embedding (**KDD**) [[paper](https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103829868)]
 
 * Structural Deep Network Embedding (**KDD**) [[paper](https://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding)][[code](https://github.com/suanrong/SDNE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/105557064)]
 
@@ -131,7 +131,7 @@
 
 ### 2015
 
-* LINE：Large-scale Information Network Embedding (**WWW**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/104537980)]
+* LINE：Large-scale Information Network Embedding (**WWW**) [[paper](https://arxiv.org/pdf/1503.03578.pdf%C2%A0%E3%80%90WWW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104537980)]
 
 ### 2014
 
