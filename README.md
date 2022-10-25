@@ -17,6 +17,8 @@
 
 ### 2022
 
+* ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD**) [[paper](https://arxiv.org/abs/2208.07239)][[code](https://github.com/snap-stanford/roland)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127508775)]
+
 * SAIL: Self Augmented Graph Contrastive Learning (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20875)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127030633?spm=1001.2014.3001.5501)]
 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
