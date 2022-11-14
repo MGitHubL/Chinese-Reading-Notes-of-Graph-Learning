@@ -63,6 +63,8 @@
 
 ### 2020
 
+* Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop**) [[paper](https://arxiv.org/abs/2006.10637)][[code](https://github.com/twitter-research/tgn)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127846239?spm=1001.2014.3001.5501)]
+
 * Inductive representation learning on temporal graphs (**ICLR**) [[paper](https://arxiv.org/abs/2002.07962)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
 
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graph (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5984)][[code](https://github.com/IBM/EvolveGCN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/108708828)]
