@@ -153,4 +153,12 @@
   pages={2202--2206},
   year={2021}
 }
+
+
+@article{liumeng2023self,
+  title={Self-Supervised Temporal Graph learning with Temporal and Structural Intensity Alignment},
+  author={Liu, Meng and Liang, Ke and Xiao, Bin and Zhou, Sihang and Tu, Wenxuan and Liu, Yue and Yang, Xihong and Liu, Xinwang},
+  journal={arXiv preprint arXiv:2302.07491},
+  year={2023}
+}
 ```
