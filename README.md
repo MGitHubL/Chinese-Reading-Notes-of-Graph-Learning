@@ -17,7 +17,7 @@
 
 ### 2022
 
-* GraphMAE: Self-Supervised Masked Graph Autoencoders (**KDD**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/129635392?spm=1001.2014.3001.5501)]
+* GraphMAE: Self-Supervised Masked Graph Autoencoders (**KDD**) [[paper](https://arxiv.org/pdf/2205.10803.pdf)][[code](https://github.com/THUDM/GraphMAE)][note](https://blog.csdn.net/CSDNTianJi/article/details/129635392?spm=1001.2014.3001.5501)]
 
 * ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD**) [[paper](https://arxiv.org/abs/2208.07239)][[code](https://github.com/snap-stanford/roland)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127508775)]
 
