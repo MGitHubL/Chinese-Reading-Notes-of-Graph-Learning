@@ -143,7 +143,9 @@
 
 
 
-## 如果您感觉有所帮助，请引用我们的文章作为鼓励~
+## Cite Us
+
+如果您感觉有所帮助，请引用我们的文章作为鼓励~
 
 ```bibtex
 @inproceedings{liumeng2021inductive,
