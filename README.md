@@ -65,6 +65,8 @@
 
 ### 2020
 
+* Contrastive Multi-View Representation Learning on Graphs (**ICML**) [[paper](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)][[code](https://github.com/kavehhassani/mvgrl)][[note](https://blog.csdn.net/CSDNTianJi/article/details/129653972?spm=1001.2014.3001.5501)]
+
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop**) [[paper](https://arxiv.org/abs/2006.10637)][[code](https://github.com/twitter-research/tgn)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127846239?spm=1001.2014.3001.5501)]
 
 * Inductive representation learning on temporal graphs (**ICLR**) [[paper](https://arxiv.org/abs/2002.07962)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104325966)]
