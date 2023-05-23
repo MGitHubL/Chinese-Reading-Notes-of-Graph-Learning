@@ -152,19 +152,18 @@
 如果您感觉有所帮助，请引用我们的文章作为鼓励~
 
 ```bibtex
+@article{TGC_ML,
+  title={Deep Temporal Graph Clustering},
+  author={Liu, Meng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  journal={arXiv preprint arXiv:2305.10738},
+  year={2023}
+}
+
 @inproceedings{liumeng2021inductive,
   title={Inductive representation learning in temporal networks via mining neighborhood and community influences},
   author={Liu, Meng and Liu, Yong},
   booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages={2202--2206},
   year={2021}
-}
-
-
-@article{liumeng2023self,
-  title={Self-Supervised Temporal Graph learning with Temporal and Structural Intensity Alignment},
-  author={Liu, Meng and Liang, Ke and Xiao, Bin and Zhou, Sihang and Tu, Wenxuan and Liu, Yue and Yang, Xihong and Liu, Xinwang},
-  journal={arXiv preprint arXiv:2302.07491},
-  year={2023}
 }
 ```
