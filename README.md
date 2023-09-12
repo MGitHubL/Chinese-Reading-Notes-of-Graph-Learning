@@ -15,6 +15,10 @@
 
 ## Paper
 
+### 2023
+
+* Heterogeneous Graph Learning for Acoustic Event Classification (**ICASSP**) [[paper](https://arxiv.org/pdf/2303.02665)][[code](https://github.com/AmirSh15/Cross_modality_graph)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132825026?spm=1001.2014.3001.5501)]
+
 ### 2022
 
 * GraphMAE: Self-Supervised Masked Graph Autoencoders (**KDD**) [[paper](https://arxiv.org/pdf/2205.10803.pdf)][[code](https://github.com/THUDM/GraphMAE)][note](https://blog.csdn.net/CSDNTianJi/article/details/129635392?spm=1001.2014.3001.5501)]
