@@ -35,7 +35,7 @@
 
 ### 2021
 
-* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM**) [[paper]((https://arxiv.org/pdf/2108.06625))][[code]((https://github.com/DyGRec/TGSRec))][[note]((https://blog.csdn.net/CSDNTianJi/article/details/132993073?spm=1001.2014.3001.5501))]
+* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM**) [[paper](https://arxiv.org/pdf/2108.06625)][[code](https://github.com/DyGRec/TGSRec)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132993073?spm=1001.2014.3001.5501)]
 
 * Do Transformers Really Perform Bad for Graph Representation (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)][[code](https://github.com/Microsoft/Graphormer)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501)]
 
