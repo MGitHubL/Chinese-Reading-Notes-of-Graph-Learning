@@ -35,6 +35,8 @@
 
 ### 2021
 
+* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM**) [[paper]([https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html](https://arxiv.org/pdf/2108.06625))][[code]([https://github.com/Microsoft/Graphormer](https://github.com/DyGRec/TGSRec))][[note]([https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501](https://blog.csdn.net/CSDNTianJi/article/details/132993073?spm=1001.2014.3001.5501))]
+
 * Do Transformers Really Perform Bad for Graph Representation (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)][[code](https://github.com/Microsoft/Graphormer)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123595047?spm=1001.2014.3001.5501)]
 
 * Structural Deep Clustering Network (**WWW**) [[paper](https://arxiv.org/pdf/2002.01633.pdf)][[code](https://github.com/bdy9527/SDCN)][[note](https://blog.csdn.net/CSDNTianJi/article/details/123323126?spm=1001.2014.3001.5501)]
