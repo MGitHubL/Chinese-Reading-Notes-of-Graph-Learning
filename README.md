@@ -21,6 +21,8 @@
 
 ### 2022
 
+* Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
+
 * GraphMAE: Self-Supervised Masked Graph Autoencoders (**KDD**) [[paper](https://arxiv.org/pdf/2205.10803.pdf)][[code](https://github.com/THUDM/GraphMAE)][note](https://blog.csdn.net/CSDNTianJi/article/details/129635392?spm=1001.2014.3001.5501)]
 
 * ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD**) [[paper](https://arxiv.org/abs/2208.07239)][[code](https://github.com/snap-stanford/roland)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127508775)]
@@ -115,7 +117,7 @@
 
 * Embedding Temporal Network via Neighborhood Formation (**KDD**) [[paper](http://www.shichuan.org/hin/topic/Embedding/2018.KDD%202018%20Embedding%20Temporal%20Network%20via%20Neighborhood%20Formation.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/101921040)]
 
-* Learning dynamic embeddings from temporal interactions (**ACM**) [[paper](https://arxiv.org/pdf/1812.02289.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104859498)]
+* Learning dynamic embeddings from temporal interactions (**arXiv**) [[paper](https://arxiv.org/pdf/1812.02289.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104859498)]
 
 * Arbitrary-Order Proximity Preserved Network Embedding (**KDD**) [[paper](https://pengcui.thumedialab.com/papers/NE-ArbitraryProximity.pdf)][[code](https://github.com/ZW-ZHANG/AROPE)][[note](https://blog.csdn.net/CSDNTianJi/article/details/103857531)]
 
