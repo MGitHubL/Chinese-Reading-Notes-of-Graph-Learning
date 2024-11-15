@@ -170,7 +170,7 @@
 @article{S2T_ML,
   title={Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment},
   author={Liu, Meng and Liang, Ke and Zhao, Yawei and Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and He Kunlun},
-  journal={arXiv preprint arXiv:2302.07491},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024}
 }
 ```
